@@ -17,5 +17,6 @@ He looks for as many references as you order.
 
 ## Релиз/Release
 **RU**: BrandOSINT постовляеться готовой сборкой (релизом) и не требует зависимостей (библиотек) или установки python, то есть работает на чистой машине с OS Windows.
+**EN**: BrandOSINT is delivered as a ready-made assembly (release) and does not require dependencies (libraries) or python installation, that is, it works on a clean machine with OS Windows.
 
-┗━━ ⬇️[Скачать BrandOSINT](https://github.com/saivan4ick/BrandOSINT/releases "скачать готовую сборку BrandOSINT для Windows")
+┗━━ ⬇️[Download BrandOSINT](https://github.com/saivan4ick/BrandOSINT/releases "скачать готовую сборку BrandOSINT для Windows")
