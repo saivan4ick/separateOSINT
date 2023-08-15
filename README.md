@@ -10,7 +10,7 @@ He looks for as many references as you order.
 | <img src="https://github.com/saivan4ick/BrandOSINT/blob/main/icons/Windows.png" width="5%" /> Windows 7/10 (32/64)  |     ✅    |
 | <img src="https://github.com/saivan4ick/BrandOSINT/blob/main/icons/Android.png" width="5%" /> Android (Termux)      |     ❌    |
 | <img src="https://github.com/saivan4ick/BrandOSINT/blob/main/icons/macOS.png" width="5%" /> macOS                 |     ❌    |
-| <img src="https://github.com/saivan4ick/BrandOSINT/blob/main/icons/IOS.png" width="5%" /> IOS (iSH)                   |     ❌    |
+| <img src="https://github.com/saivan4ick/BrandOSINT/blob/main/icons/IOS.png" width="5%" /> IOS (iSH)                   |     ✅    |
 | <img src="https://github.com/saivan4ick/BrandOSINT/blob/main/icons/WSL.png" width="5%" /> WSL                   |     ❌    | 
 
 # BrandOSINT for OS Windows
