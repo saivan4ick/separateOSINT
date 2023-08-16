@@ -1,5 +1,5 @@
 # separateOSINT
-### separateOSINT интересный проект и одномременно инструмент для поиска упоминаии бренда или чего либов интернете
+### separateOSINT интересный проект и одномременно инструмент для поиска много чего
 
 Where is the brand mentioned? separateOSINT to help.
 He looks for as many references as you order.
