@@ -1,7 +1,7 @@
-# BrandOSINT
-### BrandOSINT интересный проект и одномременно инструмент для поиска упоминаии бренда или чего либов интернете
+# separateOSINT
+### separateOSINT интересный проект и одномременно инструмент для поиска упоминаии бренда или чего либов интернете
 
-Where is the brand mentioned? BrandOSINT to help.
+Where is the brand mentioned? separateOSINT to help.
 He looks for as many references as you order.
 
 | Платформа             | Поддержка |
@@ -13,10 +13,10 @@ He looks for as many references as you order.
 | <img src="https://github.com/saivan4ick/BrandOSINT/blob/main/icons/IOS.png" width="5%" /> IOS (iSH)                   |     ✅    |
 | <img src="https://github.com/saivan4ick/BrandOSINT/blob/main/icons/WSL.png" width="5%" /> WSL                   |     ❌    | 
 
-# BrandOSINT for OS Windows
+# separateOSINT for OS Windows
 
 ## Релиз/Release
-**RU**: BrandOSINT постовляеться готовой сборкой (релизом) и не требует зависимостей (библиотек) или установки python, то есть работает на чистой машине с OS Windows.
-**EN**: BrandOSINT is delivered as a ready-made assembly (release) and does not require dependencies (libraries) or python installation, that is, it works on a clean machine with OS Windows.
+**RU**: separateOSINT постовляеться готовой сборкой (релизом) и не требует зависимостей (библиотек) или установки python, то есть работает на чистой машине с OS Windows.
+**EN**: separateOSINT is delivered as a ready-made assembly (release) and does not require dependencies (libraries) or python installation, that is, it works on a clean machine with OS Windows.
 
-┗━━ ⬇️[Download BrandOSINT](https://github.com/saivan4ick/BrandOSINT/releases "скачать готовую сборку BrandOSINT для Windows")
+┗━━ ⬇️[Download separateOSINT](https://github.com/saivan4ick/separateOSINT/releases "скачать готовую сборку separateOSINT для Windows")
