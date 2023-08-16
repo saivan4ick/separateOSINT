@@ -1,4 +1,4 @@
-BrandOSINT
+separateOSINT
 ********
 *v1.0.0*
 ********
