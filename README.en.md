@@ -1,7 +1,7 @@
-# BrandOSINT
-### BrandOSINT is an interesting project and at the same time a tool for searching for mentions of a brand or something on the Internet
+# separateOSINT
+### separateOSINT is an interesting project and at the same time a tool for searching for mentions of a brand or something on the Internet
 
-Where is the brand mentioned? BrandOSINT to help.
+Where is the brand mentioned? separateOSINT to help.
 He looks for as many references as you order.
 
 | Платформа             | Поддержка |
@@ -13,9 +13,9 @@ He looks for as many references as you order.
 | <img src="https://github.com/saivan4ick/BrandOSINT/blob/main/icons/IOS.png" width="5%" /> IOS (iSH)                   |     ❌    |
 | <img src="https://github.com/saivan4ick/BrandOSINT/blob/main/icons/WSL.png" width="5%" /> WSL                   |     ❌    | 
 
-# BrandOSINT for OS Windows
+# separateOSINT for OS Windows
 
 ## Релиз/Release
-**EN**: BrandOSINT is delivered as a ready-made assembly (release) and does not require dependencies (libraries) or python installation, that is, it works on a clean machine with OS Windows.
+**EN**: separateOSINT is delivered as a ready-made assembly (release) and does not require dependencies (libraries) or python installation, that is, it works on a clean machine with OS Windows.
 
 ┗━━ ⬇️[Скачать BrandOSINT](https://github.com/saivan4ick/BrandOSINT/releases "скачать готовую сборку BrandOSINT для Windows")
